@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "411151117242",
+    "project_id": "lito-7d504",
+    "storage_bucket": "lito-7d504.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:411151117242:android:2bf4cdceb8463499724b83",
+        "android_client_info": {
+          "package_name": "com.example.lito"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsjQO39WwNlRyyx9exLPjM_-qMOCENUlU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
